@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "firstName": "Carlos Mario",
+        "lastName": "Rodriguez Giraldo",
+        "document": "80121162",
+        "state": true,
+        "email": "mario.rodriguez@sinco.com.co",
+        "phone": "3214528414",
+        "asignaturas": [
+            {
+                "materia": "Matemática",
+                "notas": [],
+                "profesor": {
+                    "firstName": "Carlos",
+                    "lastName": "Díaz",
+                    "email": "carlos.diaz@sinco.com.co"
+                }
+            },
+            {
+                "materia": "Programación",
+                "notas": [],
+                "profesor": {
+                    "firstName": "Didier",
+                    "lastName": "Martínez",
+                    "email": "didier.martinez@sinco.com.co"
+                }
+            }
+        ]
+    }
+]

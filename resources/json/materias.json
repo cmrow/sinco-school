@@ -1,0 +1,9 @@
+{
+    "name": "Inducción",
+    "notas": [],
+    "profesor": {
+        "firstName": "Pablo",
+        "lastName": "Hernandez",
+        "email": "pablo.hernandez@sinco.com.co"
+    }
+}
