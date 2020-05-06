@@ -55,7 +55,7 @@ const formHtmlProfesor = `<form action="" id="formHtmlProfesor" class="form-acti
         <label for="phoneProfesor">
             Teléfono
         </label>
-        <input type="number" id="phoneProfesor">
+        <input type="text" id="phoneProfesor">
     </div>
     <div class="no-active" id="boxValidate">Debe diligenciar todos los campos!</div>
     
@@ -93,7 +93,7 @@ const formHtmlAlumno = `<form action="" id="formHtmlAlumno" class="form-active" 
         <label for="phoneAlumno">
             Teléfono
         </label>
-        <input type="number" id="phoneAlumno">
+        <input type="text" id="phoneAlumno">
     </div>
     <div class="no-active" id="boxValidate">Debe diligenciar todos los campos!</div>
     
